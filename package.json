@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"@faker-js/faker": "^9.0.0",
+		"parcel-bundler": "^1.12.5"
+	}
+}
